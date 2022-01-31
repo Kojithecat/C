@@ -1,0 +1,17 @@
+GF product p(a,0x02) vs GF product t(a,0x02)
+   0.00334s		   0.00357s		
+	
+GF product p(a,0x03) vs GF product t(a,0x03)
+   0.00334s		   0.00214s
+
+GF product p(a,0x09) vs GF product t(a,0x09)
+   0.00381s		   0.00500s
+
+GF product p(a,0x0B) vs GF product t(a,0x0B)
+   0.00214		   0.00214
+
+GF product p(a,0x0D) vs GF product t(a,0x0D)
+   0.00334s		   0.00238s
+
+GF product p(a,0x0E) vs GF product t(a,0x0E)
+   0.00334s		   0.00214s

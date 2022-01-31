@@ -1,0 +1,23 @@
+512 bits:
+
+Temps firma ràpida (TXR) de 512 bits: 0.11605381600020337 s
+Temps firma lenta de 512 bits:        0.29488441500006957 s
+
+
+1024 bits:
+
+Temps firma ràpida (TXR) de 1024 bits: 0.5953615789999276 s
+Temps firma lenta de 1024 bits:        1.8906094070002837 s
+
+
+2048 bits:
+
+Temps firma ràpida (TXR) de 2048 bits: 3.715636083999925 s
+Temps firma lenta de 2048 bits:        13.198528247000013 s
+
+
+TESTING 4096 bits:
+
+Temps firma ràpida (TXR) de 4096 bits: 26.87141081799973 s
+Temps firma lenta de 4096 bits:        95.21187720300031 s
+
